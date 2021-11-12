@@ -1,6 +1,6 @@
 {
   "name": "react-native-paypal-lib",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "A wrapper for the paypal sdk for both android and ios.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/zeddz92/react-native-paypal.git"
+    "url" : "https://github.com/dilone/react-native-paypal.git"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,7 @@
     "paypal sdk",
     "paypal"
   ],
-  "author": "Edward Reyes <lopezredd@gmail.com>",
+  "author": "Luiyi Dilone <dilonedev@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.64.2"
